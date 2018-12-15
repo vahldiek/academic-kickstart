@@ -22,6 +22,7 @@ effort to new and existing applications, doesn’t require compiler changes, can
 runtime overhead even at high domain switching rates"""
 selected = true
 publication = "*arXiv preprint arXiv:1801.06822*"
+publication_short = "arXiv preprint"
 url_pdf="https://arxiv.org/pdf/1801.06822"
 projects=["erim"]
 +++

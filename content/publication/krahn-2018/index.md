@@ -24,6 +24,7 @@ performance overheads for the enforcement of policies while
 keeping the trusted computing base (TCB) small."""
 selected = false
 publication = "*Proceedings of the ACM European Conference on Computer Systems (EuroSys)*"
+publication_short = "ACM EuroSys"
 url_pdf = "https://vahldiek.github.io/papers/Pesos-EuroSys18.pdf"
 projects=["guardat"]
 +++
