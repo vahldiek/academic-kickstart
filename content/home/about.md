@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 
+date = ""
 
 # Order that this section will appear in.
 weight = 5
@@ -10,16 +10,16 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Secure Software System",
+    "System Security",
     "Operating Systems",
     "Distributed Systems"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD"
-  institution = "Saarland University, Max Planck Institute for Software Systems"
-  year = 2019
+  course = "PhD in Computer Science"
+  institution = "Max Planck Institute for Software Systems, Saarland University"
+  year = "present (expected graduation 2019)"
 
 [[education.courses]]
   course = "B.Sc. in Applied Computer Science"
