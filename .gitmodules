@@ -1,7 +1,7 @@
 [submodule "themes/academic"]
-	path = themes/academic
-	url = git@github.com:vahldiek/hugo-academic.git
+   path = themes/academic
+   url = git@github.com:vahldiek/hugo-academic.git
 
 [submodule "public"]
-    path = public
-    url = git@github.com:vahldiek/vahldiek.github.io.git
+	path = public
+	url = git@github.com:vahldiek/vahldiek.github.io.git
