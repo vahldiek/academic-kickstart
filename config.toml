@@ -50,12 +50,14 @@ enableGitInfo = true
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
   extensions = ["backslashLineBreak"]
 
+[Sitemap]
+  prioity = 1.0
+
 [params]
   # AUTHOR SETUP
-  description = "Anjo Vahldiek-Oberwagner | Phd-Stuent at MPI-SWS"
+  description = "Anjo Vahldiek-Oberwagner | I’m interested in analyzing, desiging, building and evaluating software systems."
   keywords = "Anjo Vahldiek, Anjo Vahldiek-Oberwagner, ERIM, Guardat"
 	 
-
   # Your details.
   name = "Anjo Vahldiek-Oberwagner"
   role = "PhD-student at MPI-SWS"
