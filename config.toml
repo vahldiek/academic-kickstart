@@ -55,7 +55,7 @@ enableGitInfo = true
 
 [params]
   # AUTHOR SETUP
-  description = "Anjo Vahldiek-Oberwagner | I’m interested in analyzing, desiging, building and evaluating software systems."
+  description = "I’m interested in analyzing, desiging, building and evaluating computer systems in particular secure systems."
   keywords = "Anjo Vahldiek, Anjo Vahldiek-Oberwagner, ERIM, Guardat"
 	 
   # Your details.
