@@ -17,13 +17,13 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Computer Science"
-  institution = "Max Planck Institute for Software Systems, Saarland University"
-  year = "present (expected graduation 2019)"
+  institution = "Max Planck Institute for Software Systems & Saarland University"
+  year = "February, 2019"
 
 [[education.courses]]
   course = "B.Sc. in Applied Computer Science"
   institution = "Cooperative University State University Baden-Wuertemberg"
-  year = 2009
+  year = "September, 2009"
  
 +++
 
