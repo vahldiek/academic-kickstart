@@ -2,7 +2,7 @@
 title = "ERIM: Secure, Efficient In-Process Isolation with Memory Protection Keys"
 date = 2018-01-01
 authors = ["Anjo Vahldiek-Oberwagner", "Eslam Elnikety", "Nuno O. Duarte", "Peter Druschel", "Deepak Garg"]
-publication_types = ["2"]
+publication_types = ["4"]
 abstract = """Isolating sensitive data and state can increase the security
 and robustness of many applications. Examples include protecting cryptographic keys against exploits like OpenSSL’s
 Heartbleed bug or protecting a language runtime from native libraries written in unsafe languages. When runtime
