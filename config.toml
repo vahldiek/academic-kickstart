@@ -71,7 +71,7 @@ enableGitInfo = true
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "vahldiek@mpi-sws.org"
+  email = "anjovahldiek@gmail.com"
   address = ""
   office_hours = ""
   phone = ""
