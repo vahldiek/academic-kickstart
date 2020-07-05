@@ -27,5 +27,6 @@ publication = "*Proceedings of the ACM European Conference on Computer Systems (
 publication_short = "ACM EuroSys"
 url_pdf = "https://vahldiek.github.io/papers/Pesos-EuroSys18.pdf"
 projects=["guardat"]
+awards=''
 +++
 

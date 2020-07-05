@@ -57,11 +57,11 @@ enableGitInfo = true
   # AUTHOR SETUP
   description = "I’m interested in analyzing, desiging, building and evaluating computer systems in particular secure systems."
   keywords = "Anjo Vahldiek, Anjo Vahldiek-Oberwagner, ERIM, Guardat"
-	 
+
   # Your details.
   name = "Anjo Vahldiek-Oberwagner"
-  role = "Research Scientist at Intel Labs"
-  
+  role = "Research Scientist @ Intel Labs"
+
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -207,7 +207,8 @@ enableGitInfo = true
     'Manuscript',  # 3
     'Report',  # 4
     'Book',  # 5
-    'Book section'  # 6
+    'Book section',  # 6
+    'Talk' #7
   ]
 
   # Configuration of talk pages.
@@ -239,7 +240,7 @@ enableGitInfo = true
     #   3 = MLA
     #   4 = Stream
     publication_format = 0
-	
+
     # Talk list format.
     #   0 = Simple
     #   1 = Detailed
@@ -273,7 +274,7 @@ enableGitInfo = true
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.de/citations?user=bLR7-XQAAAAJ"
-	
+
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
@@ -308,12 +309,22 @@ enableGitInfo = true
   name = "Publications"
   url = "publication/"
   weight = 3
-  
+
 [[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 2
-  
+
+[[menu.main]]
+name = "Service"
+url = "#service"
+weight = 4
+
+[[menu.main]]
+name = "Awards"
+url = "#awards"
+weight = 5
+
 [[menu.main]]
   name = "Contact"
   url = "#contact"

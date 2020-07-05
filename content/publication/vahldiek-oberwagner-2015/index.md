@@ -13,5 +13,6 @@ url_video = "https://youtu.be/xSXlOogET8Q?list=PLn0nrSd4xjjbDQCELCxomxrx7UuZ3IzV
 url_poster = "https://vahldiek.github.io/slides/eurosys15-vahldiek-talk.pptx"
 url_custom = [{name = "Extended technical report", url = "https://www.google.com/patents/US9165155	"}]
 projects=["guardat"]
+awards=''
 +++
 

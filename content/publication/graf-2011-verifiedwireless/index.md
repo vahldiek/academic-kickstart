@@ -8,5 +8,6 @@ selected = false
 publication = "*IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM)*"
 publication_short ="IEEE WoWMoM"
 url_pdf="https://vahldiek.github.io/papers/wowmom.pdf"
+awards=''
 +++
 

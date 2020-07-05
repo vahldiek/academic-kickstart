@@ -11,5 +11,6 @@ tags = ["Max Planck Institute for Software Systems", "University of Maryland"]
 url_pdf = "https://www.usenix.org/conference/osdi16/technical-sessions/presentation/litton"
 url_code ="http://cs.umd.edu/projects/lwc/"
 projects=["erim"]
+awards=''
 +++
 

@@ -8,5 +8,6 @@ selected = false
 publication = "PhD Thesis"
 url_pdf = "https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/27354/1/thesis.pdf"
 projects=["guardat", "erim"]
+awards=''
 +++
 
