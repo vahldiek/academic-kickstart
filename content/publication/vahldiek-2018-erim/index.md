@@ -7,11 +7,10 @@ abstract = """Isolating sensitive data and state can increase the security and r
 selected = true
 publication = "*Proceedings of USENIX Security Symposium*"
 publication_short = "USENIX Security"
-url_pdf="#"
-url_code="#"
-url_slides="#"
-url_video = "#"
-url_custom = [{name = "Pre-print", url =   "https://arxiv.org/abs/1801.06822"}]
+url_pdf="https://www.usenix.org/system/files/sec19-vahldiek-oberwagner_0.pdf"
+url_code="http://gitlab.mpi-sws.org/vahldiek/erim"
+url_slides="https://vahldiek.github.io/files/ERIM-USESEC19.pptx"
+url_video = "https://youtu.be/dtGrILGXXtc"
 projects=["erim"]
 +++
 
