@@ -17,6 +17,7 @@ weight = 60
 
 ### Program Committee
 * Middleware'20 Doctoral Workshop
+* Intel Software Professionals Conference (SWPC) - Security Track PC
 * EuroSys'20 ShadowPC
 * SOCC'19 Posters
 
