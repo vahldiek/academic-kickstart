@@ -30,5 +30,6 @@ weight = 60
 * EuroSys'18
 * HotOS'17
 * OSDI'16
-* Organization
+
+### Organization
 * Registration for EuroSys'21
