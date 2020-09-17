@@ -15,9 +15,9 @@ In this talk we will present Graphene Secure Containers, a technique to automati
 unmodified Linux application packaged in a container image to execute inside Intel SGX using the
 Graphene LibraryOS and allow users to verify application integrity via remote attestation. """
 selected = false
-publication = "*Linux Security Summit 2020*"
+publication = "*Linux Security Summit*"
 url_slides="https://static.sched.com/hosted_files/lssna2020/71/wo-narration-lss2020-shielding-containers-in-cloud.pptx"
-url_video = "#"
+url_video = "https://youtu.be/I8p9sLFr-GI"
 projects=["graphene"]
 awards=''
 +++
