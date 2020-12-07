@@ -8,7 +8,7 @@ selected = true
 publication = "*IEEE Secure Development Conference (SecDev)*"
 url_slides="#"
 url_video = "https://www.youtube.com/playlist?list=PL0pnQSBQ3CEj4ur0wI8oKEx0315VJthh_"
-projects=["untrusted cloud"]
+projects=["untrustedcloud"]
 awards=''
 +++
 

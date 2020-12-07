@@ -8,5 +8,5 @@ selected = false
 publication = "*arXiv*"
 url_pdf="https://arxiv.org/pdf/2009.04390.pdf"
 awards=''
-projects=["untrusted cloud"]
+projects=["untrustedcloud"]
 +++
