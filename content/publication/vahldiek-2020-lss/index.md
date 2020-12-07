@@ -18,7 +18,7 @@ selected = false
 publication = "*Linux Security Summit*"
 url_slides="https://static.sched.com/hosted_files/lssna2020/71/wo-narration-lss2020-shielding-containers-in-cloud.pptx"
 url_video = "https://youtu.be/I8p9sLFr-GI"
-projects=["graphene"]
+projects=["untrusted cloud"]
 awards=''
 +++
 
