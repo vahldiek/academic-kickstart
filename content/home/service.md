@@ -16,17 +16,17 @@ weight = 60
 +++
 
 ### Program Committee
-* Usenix Security'21 Programm Committee
-* Middleware'20 Doctoral Workshop
+* [Usenix Security'21 Programm Committee](https://www.usenix.org/conference/usenixsecurity21#organizers)
+* [Middleware'20 Doctoral Workshop](https://2020.middleware-conference.org/program-committee.html)
 * Intel Software Professionals Conference (SWPC) - Security Track PC
 * EuroSys'20 ShadowPC
 * SOCC'19 Posters
 
 ### Artifact Evaluation
-* SC'21 Artifact Evaluation Co-Chair
-* OSDI'20 Artifact Evaluation Co-Chair
-* USENIX Security'20
-* SOSP'19
+* [SC'21 Artifact Evaluation Co-Chair](https://sc21.supercomputing.org/submit/reproducibility-initiative/)
+* [OSDI'20 Artifact Evaluation Co-Chair](https://www.usenix.org/conference/osdi20/call-for-artifacts)
+* [USENIX Security'20](https://www.usenix.org/conference/usenixsecurity20/call-for-artifacts)
+* [SOSP'19](https://sysartifacts.github.io/sosp2019/organizers.html)
 
 ### External Reviewer
 * EuroSys'18
@@ -34,4 +34,4 @@ weight = 60
 * OSDI'16
 
 ### Organization
-* Registration for EuroSys'21
+* [Registration for EuroSys'21](https://2021.eurosys.org/organization-committee.html#organization-committee)
