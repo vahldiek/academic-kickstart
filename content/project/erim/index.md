@@ -13,7 +13,7 @@ summary = """Providing isolation for sensitive data and state to increase the se
 # Slides (optional).
 #   Associate this page with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
@@ -34,7 +34,7 @@ url_poster = ""
 # url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = ""
@@ -44,5 +44,19 @@ url_poster = ""
   focal_point = ""
 +++
 
-Isolating sensitive data and state can increase the security and robustness of many applications. Applications, such as isolating cryptographic session keys in a network-facing application or isolating frequently invoked native libraries in managed runtimes, require very frequent domain switching. In such applications, the overhead of kernel- or hypervisormediated domain switching is prohibitive.
-We suggest ERIM, a novel technique, that provides hardware-enforced isolation with low overhead, even at high switching rates (ERIM's average overhead is less than 1% for 100,000 switches per second). The key idea is to combine memory protection keys (MPKs), a feature recently added to Intel CPUs that allows protection domain switches in userspace, with binary inspection to prevent circumvention. We show that ERIM can be applied with little effort to new and existing applications, doesn't require compiler changes and can run on a stock Linux kernel.
+Isolating sensitive data and state can increase the security and robustness of
+many applications. Applications, such as isolating cryptographic session keys in
+a network-facing application or isolating frequently invoked native libraries in
+managed runtimes, require very frequent domain switching. In such applications,
+the overhead of kernel- or hypervisormediated domain switching is prohibitive.
+We suggest LwCs and ERIM to overcome these costs using novel kernel
+functionality and hardware-support (e.g., Intel MPK), respectively.
+
+Wasm has become a popular lightweight, in-process sandbox and is, for example,
+used in production to isolate different clients on edge clouds and
+function-as-a-service platforms. Unfortunately, Spectre attacks can bypass
+Wasm’s isolation guarantees. Swivel hardens Wasm against this class of attacks
+by ensuring that potentially malicious code can neither use Spectre attacks to
+break out of the Wasm sandbox nor coerce victim code—another Wasm client or the
+embedding process—to leak secret data. We suggest Swivel, a new compiler
+framework for hardening WebAssembly (Wasm) against Spectre attacks.
