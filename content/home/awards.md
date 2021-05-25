@@ -15,9 +15,12 @@ weight = 65
 
 +++
 
-* Facebook and USENIX <a
+* *Intel Labs Gordy Award Honorable Mention* in "Excelence in Risk Taking" for our
+  continued work on the Graphene Library OS (in collaboration with Dmitrii
+  Kuvaiskii, Mona Vij, Sudha Krishnakumar, Isaku Yamahata)
+* *Facebook and USENIX <a
 href="https://research.fb.com/blog/2019/08/facebook-awards-100000-to-2019-internet-defense-prize-winners/"
-target="_blank">Internet Defense Prize 2019</a>
-* Distinguished Paper Award at <a
+target="_blank">Internet Defense Prize* 2019</a>
+* *Distinguished Paper Award* at <a
   href="https://www.usenix.org/conferences/best-papers?taxonomy_vocabulary_1_tid=2019&title_1=Security"
   target="_blank">USENIX Security 2019</a>

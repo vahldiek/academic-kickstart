@@ -16,6 +16,7 @@ weight = 60
 +++
 
 ### Program Committee
+* [Usenix Security'22 Programm Committee](https://www.usenix.org/conference/usenixsecurity22#organizers)
 * [Usenix Security'21 Programm Committee](https://www.usenix.org/conference/usenixsecurity21#organizers)
 * [Middleware'20 Doctoral Workshop](https://2020.middleware-conference.org/program-committee.html)
 * Intel Software Professionals Conference (SWPC) - Security Track PC
