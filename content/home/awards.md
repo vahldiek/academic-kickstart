@@ -15,7 +15,8 @@ weight = 65
 
 +++
 
-* *Intel Labs Gordy Award Honorable Mention* in "Excelence in Risk Taking" for our
+* Intel High-5 Patent Award 2021
+* *Intel Labs 2021 Gordy Award Honorable Mention* in "Excelence in Risk Taking" for our
   continued work on the Graphene Library OS (in collaboration with Dmitrii
   Kuvaiskii, Mona Vij, Sudha Krishnakumar, Isaku Yamahata)
 * *Facebook and USENIX <a
