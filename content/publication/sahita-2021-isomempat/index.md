@@ -18,6 +18,7 @@ protecting other data . Memory for each function may be encrypted using a
 different encryption key. """
 selected = true
 publication = "*US Patent App. 17 / 131,751*"
+url_pdf = "https://patentimages.storage.googleapis.com/d5/e9/bf/21b190000ca104/US20210109870A1.pdf"
 awards=''
 +++
 
