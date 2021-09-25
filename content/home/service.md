@@ -27,6 +27,8 @@ weight = 60
 
 ### Artifact Evaluation
 
+* [EuroSys'22 Artifact Evaluation Co-Chair](#)
+* [SC'21 Best Reproducibility Advancement Award co-chair](https://sc21.supercomputing.org/program/awards/sc-best-reproducibility-advancement-award/)
 * [SC'21 Artifact Evaluation Co-Chair](https://sc21.supercomputing.org/submit/reproducibility-initiative/)
 * [OSDI'20 Artifact Evaluation Co-Chair](https://www.usenix.org/conference/osdi20/call-for-artifacts)
 * [USENIX Security'20](https://www.usenix.org/conference/usenixsecurity20/call-for-artifacts)

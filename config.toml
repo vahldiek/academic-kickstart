@@ -208,7 +208,8 @@ enableGitInfo = true
     'Report',  # 4
     'Book',  # 5
     'Book section',  # 6
-    'Talk' #7
+    'Talk', #7
+    'Patent' #8
   ]
 
   # Configuration of talk pages.
