@@ -24,8 +24,10 @@ jobs:
       - uses: actions/checkout@v2
       
       # Checkout submodules
-      - name: Checkout submodules
-        uses: textbook/git-checkout-submodule-action@master
+      - name: checkout submodules
+        run: |
+          git submodule init 
+          git submodule update
 
       # Run hugo build
       - name: build and deploy
