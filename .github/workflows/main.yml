@@ -24,14 +24,5 @@ jobs:
       - uses: actions/checkout@v2
 
       # Run hugo build
-      - name: hugo
-        uses: klakegg/actions-hugo@0.54.0
-
-      # Push public to repository 
-      - name: deploy
-        run: |
-          cd public
-          git add *
-          git commit '${{ github.event.head_commit.message }}'
-          git push
-          echo test, and deploy your project.
+      - name: build and deploy
+          ./deploy.sh '${{ github.event.head_commit.message }}'
