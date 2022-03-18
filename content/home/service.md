@@ -40,5 +40,9 @@ weight = 60
 * HotOS: 2017
 * OSDI: 2016
 
+### Journal
+
+* [DTRAP](https://dl.acm.org/journal/dtrap) External Reviewer: 2021
+
 ### Organization
 * [Registration for EuroSys'21](https://2021.eurosys.org/organization-committee.html#organization-committee)
