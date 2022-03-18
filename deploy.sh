@@ -3,7 +3,8 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
-docker run --rm -v $(pwd):/src klakegg/hugo:0.54.0-ubuntu
+#docker run --rm -v $(pwd):/src --env HUGO_DESTINATION=public klakegg/hugo:0.54.0-ubuntu
+./build.sh
 
 # Go To Public folder
 cd public
