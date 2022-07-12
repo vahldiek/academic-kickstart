@@ -9,7 +9,7 @@ weight = 7
 title='News'
 +++
 
-[Jul 22] Selected in DARPA Riser class 2022<br>
+[Jul 22] Selected in [DARPA Riser class 2022](https://forward.darpa.mil/risers)<br>
 [Jul 22] Join [DSE chair at TUM](https://dse.in.tum.de/) as Adjunct Lecturer<br>
 [Jun 22] P-RECS paper on ["Expanding the Scope of Artifact Evaluation at HPC Conferences: Experience of SC21"](publication/malik-2022-aehpc/)<br>
 [May 22] Serve as USENIX Security 2023 Artifact Evaluation co-chair with Cristiano Giuffrida<br>
