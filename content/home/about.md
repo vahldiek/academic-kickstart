@@ -16,6 +16,11 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.employment]]
+  title = "Adjunct Lecturer"
+  organization = "TU Munich"
+  year = "July, 2022"
+
+[[education.employment]]
   title = "Research Scientist"
   organization = "Intel Labs"
   year = "April, 2019"

@@ -19,7 +19,8 @@ weight = 60
 
 * Usenix Security:
   [2021](https://www.usenix.org/conference/usenixsecurity21#organizers),
-  [2022](https://www.usenix.org/conference/usenixsecurity22#organizers)
+  [2022](https://www.usenix.org/conference/usenixsecurity22#organizers),
+  [2023](https://www.usenix.org/conference/usenixsecurity23#organizers)
 * Middleware Doctoral Workshop: [2020](https://2020.middleware-conference.org/program-committee.html)
 * Intel Software Professionals Conference - Security Track: 2020
 * EuroSys ShadowPC: 2020
@@ -27,10 +28,11 @@ weight = 60
 
 ### Artifact Evaluation
 
-* [EuroSys'22 Artifact Evaluation Co-Chair](#)
-* [SC'21 Best Reproducibility Advancement Award co-chair](https://sc21.supercomputing.org/program/awards/sc-best-reproducibility-advancement-award/)
-* [SC'21 Artifact Evaluation Co-Chair](https://sc21.supercomputing.org/submit/reproducibility-initiative/)
-* [OSDI'20 Artifact Evaluation Co-Chair](https://www.usenix.org/conference/osdi20/call-for-artifacts)
+* [USENIX Security'23 Artifact Evaluation co-chair](#)
+* [EuroSys'22 Artifact Evaluation co-chair](https://2022.eurosys.org/committees/organization-committee/)
+* [SC'21 Best Reproducibility Advancement Award o-chair](https://sc21.supercomputing.org/program/awards/sc-best-reproducibility-advancement-award/)
+* [SC'21 Artifact Evaluation co-chair](https://sc21.supercomputing.org/submit/reproducibility-initiative/)
+* [OSDI'20 Artifact Evaluation co-chair](https://www.usenix.org/conference/osdi20/call-for-artifacts)
 * [USENIX Security'20](https://www.usenix.org/conference/usenixsecurity20/call-for-artifacts)
 * [SOSP'19](https://sysartifacts.github.io/sosp2019/organizers.html)
 

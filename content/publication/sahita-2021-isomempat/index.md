@@ -2,7 +2,7 @@
 title = "Isolating memory within trusted execution environments"
 date = 2021-04-15
 authors = ["Ravi L Sahita", "Anjo Lucas Vahldiek-Oberwagner", "Teck Joo Goh", "Rameshkmar Illikkal", "Andrzej Kuriata", "Vedvyas Shanbhogue", "Mona Vij", "Haidong Xia"]
-publication_types = ["8"]
+publication_types = ["9"]
 abstract = """Example methods and systems are directed to isolating memory in
 trusted execution environments ( TEEs ) . In func tion - as - a - service ( FaaS
 ) environments , a client makes use of a function executing within a TEE on a

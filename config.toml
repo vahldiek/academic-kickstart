@@ -60,7 +60,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Anjo Vahldiek-Oberwagner"
-  role = "Research Scientist @ Intel Labs"
+  role = "Research Scientist @ Intel Labs, Adjunct Lecturer @ TU Munich"
 
 
   # Organizations/Affiliations.
@@ -209,7 +209,8 @@ enableGitInfo = false
     'Book',  # 5
     'Book section',  # 6
     'Talk', #7
-    'Patent' #8
+    'Patent', #8
+    'Patent App.' #9
   ]
 
   # Configuration of talk pages.

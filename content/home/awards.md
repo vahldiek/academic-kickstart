@@ -15,6 +15,9 @@ weight = 65
 
 +++
 
+* Selected as *[DARPA Riser](https://forward.darpa.mil/risers)* 2022, Topic:
+  "The Rise of Memory-Safe Languages: Building a Secure and Performant
+  Hardware/Software"
 * Intel High-5 Patent Award 2021
 * *Intel Labs 2021 Gordy Award Honorable Mention* in "Excelence in Risk Taking" for our
   continued work on the Graphene Library OS (in collaboration with Dmitrii
