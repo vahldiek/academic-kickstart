@@ -9,5 +9,6 @@ publication = "*Proceedings of the USENIX Security Symposium*"
 publication_short = "Usenix Security"
 url_pdf = "https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/elnikety"
 awards=''
+projects=["guardat"]
 +++
 
