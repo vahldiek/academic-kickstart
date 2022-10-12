@@ -9,7 +9,7 @@ weight = 7
 title='News'
 +++
 
-[Oct 22] [Cerberus]](https://vahldiek.github.io/publication/lee-2022/) to be published at ACM CCS'22<br>
+[Oct 22] [Cerberus](https://vahldiek.github.io/publication/lee-2022/) to be published at ACM CCS'22<br>
 [Jul 22] Selected in *[DARPA Riser class 2022](https://forward.darpa.mil/risers)*<br>
 [Jul 22] Join [DSE chair at TUM](https://dse.in.tum.de/) as Adjunct Lecturer<br>
 [Jun 22] P-RECS paper on ["Expanding the Scope of Artifact Evaluation at HPC Conferences: Experience of SC21"](publication/malik-2022-aehpc/)<br>
