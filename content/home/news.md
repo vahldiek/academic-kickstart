@@ -9,6 +9,7 @@ weight = 7
 title='News'
 +++
 
+[Nov 10] [MSHSA](https://vahldiek.github.io/publication/vahldiek-2022-words/) to be published at WORDS'22<br>
 [Oct 22] [Cerberus](https://vahldiek.github.io/publication/lee-2022/) to be published at ACM CCS'22<br>
 [Jul 22] Selected in *[DARPA Riser class 2022](https://forward.darpa.mil/risers)*<br>
 [Jul 22] Join [DSE chair at TUM](https://dse.in.tum.de/) as Adjunct Lecturer<br>

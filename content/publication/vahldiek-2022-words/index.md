@@ -1,6 +1,6 @@
 +++
 title = "The case for a Memory-Safe Hardware and Software Architecture for Serverless Computing"
-date = 2022-11-17
+date = 2022-11-08
 authors = ["Anjo Vahldiek-Oberwagner", "Mona Vij"]
 publication_types = ["1"]
 abstract = """Motivated by developer productivity, serverless computing, microservices or
