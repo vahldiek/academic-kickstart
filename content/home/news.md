@@ -19,4 +19,6 @@ title='News'
 [Nov 21] External review for [DTRAP](https://dl.acm.org/journal/dtrap)<br>
 [Mar 22] [Report about EuroSys'22 Artifact Evaluation Process](https://sysartifacts.github.io/eurosys2022/report)<br>
 [Nov 21] [Report about SC'21 Artifact Evaluation Process](https://sysartifacts.github.io/sc2021/report)<br>
+<!--
 [Aug 21] [Swivel](publication/narayan-2021/) is published at USENIX Security'21
+-->
