@@ -202,7 +202,7 @@ enableGitInfo = false
   #   translated.
   publication_types = [
     'Uncategorized',  # 0
-    'Conference paper',  # 1
+    'Conference/Workshop paper',  # 1
     'Journal article',  # 2
     'Manuscript',  # 3
     'Report',  # 4
@@ -270,7 +270,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:vahldiek@mpi-sws.org"  # For a direct email link, use "mailto:test@example.org".
+    link = "mailto:anjovahldiek@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon = "google-scholar"

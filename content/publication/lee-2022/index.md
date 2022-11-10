@@ -7,7 +7,7 @@ abstract = "Hardware enclaves rely on a disjoint memory model, which maps each p
 selected = false
 publication = "*Proceedings of the ACM Conference on Computer and Communications Security (CCS)*"
 publication_short = "ACM CCS"
-url_pdf = "https://arxiv.org/pdf/2209.15253.pdf"
+url_pdf = "https://dl.acm.org/doi/pdf/10.1145/3548606.3560595"
 awards=''
 projects=["untrustedcloud"]
 +++
