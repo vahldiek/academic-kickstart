@@ -19,10 +19,11 @@ we investigate building a single address space OS or a multi-application library
 OS, possible hardware implications, and demonstrate their capabilities,
 drawbacks and requirements. The goal is to bring the advantages to all
 application workloads including legacy and memory-unsafe applications, and
-analyze how hardware may improve the efficiency and security"""
+analyze how hardware may improve the efficiency and security."""
 selected = false
-publication = "*Workshop On Resource Disaggregation and Serverless Computing*"
-(WORDS)*" url_slides="" url_video = ""
+publication = "*Workshop On Resource Disaggregation and Serverless Computing (WORDS)*"
+url_slides=""
+url_video = ""
 # projects= [""]
 awards=''
 +++
