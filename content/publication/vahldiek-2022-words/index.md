@@ -22,6 +22,7 @@ application workloads including legacy and memory-unsafe applications, and
 analyze how hardware may improve the efficiency and security."""
 selected = false
 publication = "*Workshop On Resource Disaggregation and Serverless Computing (WORDS)*"
+url_pdf="https://wuklab.github.io/words/words22-vahldiek-oberwagner.pdf"
 url_slides=""
 url_video = ""
 # projects= [""]
