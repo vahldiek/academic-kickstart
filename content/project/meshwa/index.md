@@ -1,6 +1,6 @@
 +++
 title = "Memory-Safe Hardware and Software Architecture"
-date = 2022-11-15T00:24:42+01:00
+date = 2022-11-11T00:24:42+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
