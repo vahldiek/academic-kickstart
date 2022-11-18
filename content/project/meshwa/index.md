@@ -1,5 +1,5 @@
 +++
-title = "Secure, Efficient In-Process Memory Isolation"
+title = "Memory-Safe Hardware and Software Architecture"
 date = 2022-11-15T00:24:42+01:00
 draft = false
 
