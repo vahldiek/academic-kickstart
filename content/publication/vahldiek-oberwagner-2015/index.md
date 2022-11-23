@@ -12,7 +12,6 @@ url_slides = "https://vahldiek.github.io/slides/eurosys15-vahldiek-talk.pptx"
 url_video = "https://youtu.be/xSXlOogET8Q?list=PLn0nrSd4xjjbDQCELCxomxrx7UuZ3IzVH"
 url_poster = "https://vahldiek.github.io/slides/fast12_trustedstorage_poster.pptx"
 url_custom = [{name = "Poster Talk at Fast 2012 WIP", url = "https://vahldiek.github.io/slides/truted_storage_fast12.pptx"}]
-url_custom = [{name = "Extended technical report", url = "https://www.google.com/patents/US9165155	"}]
 projects=["guardat"]
 awards=''
 +++

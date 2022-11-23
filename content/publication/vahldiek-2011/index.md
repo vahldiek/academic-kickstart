@@ -7,6 +7,7 @@ abstract = "We present a storage primitive called a storage lease. Data stored u
 selected = true
 publication = "MPI-SWS Technical Report"
 url_pdf = "https://www.mpi-sws.org/tr/2011-008.pdf"
+url_custom = [{name = "Patent", url = "https://www.google.com/patents/US9165155"}]
 projects=["guardat"]
 awards=''
 +++
