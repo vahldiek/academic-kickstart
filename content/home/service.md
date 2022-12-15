@@ -36,6 +36,10 @@ weight = 60
 * [USENIX Security'20](https://www.usenix.org/conference/usenixsecurity20/call-for-artifacts)
 * [SOSP'19](https://sysartifacts.github.io/sosp2019/organizers.html)
 
+### Steering Commmittee
+
+* [NSF Repeto Project](https://news.ucsc.edu/2022/08/maltzahn-fairos-award.html)
+
 ### External Reviewer
 
 * EuroSys: 2018

@@ -24,7 +24,7 @@ selected = false
 publication = "*Workshop On Resource Disaggregation and Serverless Computing (WORDS)*"
 url_pdf="https://arxiv.org/abs/2211.08056"
 url_slides="https://vahldiek.github.io/files/words22-meshwa.pdf"
-url_video = ""
+url_video = "https://youtu.be/ZKqclYYTvG4"
 projects= ["meshwa"]
 awards=''
 +++
