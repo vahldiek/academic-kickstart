@@ -9,8 +9,8 @@ weight = 7
 title='News'
 +++
 
-[Dec 22] uSwitch accepted at IEEE S&P<br>
-[Dec 22] [Segue & ColorGuard]() presented at PLAS'22<br>
+[Dec 22] [uSwitch]() accepted at IEEE S&P<br>
+[Dec 22] [Segue & ColorGuard](https://vahldiek.github.io/publication/narayan-2022) presented at PLAS'22<br>
 [Nov 22] [MSHSA](https://vahldiek.github.io/publication/vahldiek-2022-words/) presented at WORDS'22<br>
 [Oct 22] [Cerberus](https://vahldiek.github.io/publication/lee-2022/) published at ACM CCS'22<br>
 [Jul 22] Selected in *[DARPA Riser class 2022](https://forward.darpa.mil/risers)*<br>
