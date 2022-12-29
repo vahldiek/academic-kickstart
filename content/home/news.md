@@ -9,7 +9,7 @@ weight = 7
 title='News'
 +++
 
-[Jan 23] Guide NSF Repeto Project & ACM REP Conference as steering committee member<br>
+[Jan 23] Guide [NSF Repeto Project](https://news.ucsc.edu/2022/08/maltzahn-fairos-award.html) & [ACM REP Conference](https://acm-rep.github.io/) as steering committee member<br>
 [Dec 22] [uSwitch](publication/peng-2023) published at IEEE S&P<br>
 [Dec 22] Presented [MeSHwA](publication/vahldiek-2022-words) at DARPA Forward<br>
 [Dec 22] [Segue & ColorGuard](publication/narayan-2022) published at PLAS'22<br>
