@@ -1,5 +1,5 @@
 +++
-title = "The case for a Memory-Safe Hardware and Software Architecture for Serverless Computing"
+title = "MeSHwA: The case for a Memory-Safe Software and Hardware Architecture for Serverless Computing"
 date = 2022-11-08
 authors = ["Anjo Vahldiek-Oberwagner", "Mona Vij"]
 publication_types = ["1"]
