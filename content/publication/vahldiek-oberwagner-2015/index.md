@@ -11,7 +11,7 @@ url_pdf = "http://dl.acm.org/citation.cfm?doid=2741948.2741958"
 url_slides = "https://vahldiek.github.io/slides/eurosys15-vahldiek-talk.pptx"
 url_video = "https://youtu.be/xSXlOogET8Q?list=PLn0nrSd4xjjbDQCELCxomxrx7UuZ3IzVH"
 url_poster = "https://vahldiek.github.io/slides/fast12_trustedstorage_poster.pptx"
-url_custom = [{name = "Poster Talk at Fast 2012 WIP", url = "https://vahldiek.github.io/slides/truted_storage_fast12.pptx"}]
+# url_custom = [{name = "Poster Talk at Fast 2012 WIP", url = "https://vahldiek.github.io/slides/truted_storage_fast12.pptx"}]
 projects=["guardat"]
 awards=''
 +++
