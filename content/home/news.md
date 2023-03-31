@@ -9,6 +9,7 @@ weight = 7
 title='News'
 +++
 
+[Mar 23] [HFI](publication/narayan-2023) published at ASPLOS'23 & wins Distinguished Paper Award<br>
 [Jan 23] Guide [NSF Repeto](https://news.ucsc.edu/2022/08/maltzahn-fairos-award.html) & [ACM REP Conference](https://acm-rep.github.io/) as steering committee member<br>
 [Dec 22] [uSwitch](publication/peng-2023) published at IEEE S&P<br>
 [Dec 22] Presented [MeSHwA](publication/vahldiek-2022-words) at DARPA Forward<br>

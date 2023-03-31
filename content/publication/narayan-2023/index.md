@@ -18,7 +18,7 @@ compiler-based emulation on a mix of real and synthetic workloads."""
 selected = false
 awards = "<b>Distinguished Paper Award<b>"
 publication = "*Proceedings of the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*"
-publication_short = "ASPLOS"
+publication_short = "ASPLOS,<br><b>Distinguished Paper Award<b>"
 url_pdf="https://cseweb.ucsd.edu/~dstefan/pubs/narayan:2023:hfi.pdf"
 projects=["erim"]
 +++
