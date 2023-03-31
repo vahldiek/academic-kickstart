@@ -7,7 +7,7 @@ abstract = """Isolating sensitive data and state can increase the security and r
 selected = false
 publication = "*Proceedings of USENIX Security Symposium*"
 awards = "<b>Distinguished Paper Award and <a href='https://research.fb.com/blog/2019/08/facebook-awards-100000-to-2019-internet-defense-prize-winners/' target='_blank'>Internet Defense Prize</a></b>"
-publication_short = "USENIX Security,<b>Distinguished Paper Award and <a href='https://research.fb.com/blog/2019/08/facebook-awards-100000-to-2019-internet-defense-prize-winners/' target='_blank'>Internet Defense Prize</a></b>"
+publication_short = "USENIX Security, <b>Distinguished Paper Award and <a href='https://research.fb.com/blog/2019/08/facebook-awards-100000-to-2019-internet-defense-prize-winners/' target='_blank'>Internet Defense Prize</a></b>"
 url_pdf="https://www.usenix.org/system/files/sec19-vahldiek-oberwagner_0.pdf"
 url_code="http://gitlab.mpi-sws.org/vahldiek/erim"
 url_slides="https://vahldiek.github.io/files/ERIM-USESEC19.pptx"
