@@ -16,6 +16,7 @@ processors. We evaluate HFI for x86-64 using the gem5 simulator and
 compiler-based emulation on a mix of real and synthetic workloads."""
 
 selected = false
+awards = "<b>Distinguished Paper Award<b>"
 publication = "*Proceedings of the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*"
 publication_short = "ASPLOS"
 url_pdf="https://cseweb.ucsd.edu/~dstefan/pubs/narayan:2023:hfi.pdf"
