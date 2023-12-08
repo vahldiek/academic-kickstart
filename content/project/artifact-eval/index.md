@@ -57,7 +57,8 @@ on the authors and ease the reproduction of results for evaluators.
 
 Involvement in past Artifact Evaluation:
 
-* [USENIX Security'23 Artifact Evaluation co-chair](#)
+* [USENIX Security'24 Artifact Evaluation co-chair](https://www.usenix.org/conference/usenixsecurity24/call-for-artifacts)
+* [USENIX Security'23 Artifact Evaluation co-chair](https://www.usenix.org/conference/usenixsecurity23/call-for-artifacts)
 * [EuroSys'22 Artifact Evaluation co-chair](https://2022.eurosys.org/committees/organization-committee/)
 * [SC'21 Best Reproducibility Advancement Award o-chair](https://sc21.supercomputing.org/program/awards/sc-best-reproducibility-advancement-award/)
 * [SC'21 Artifact Evaluation co-chair](https://sc21.supercomputing.org/submit/reproducibility-initiative/)
