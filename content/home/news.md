@@ -9,7 +9,7 @@ weight = 7
 title='News'
 +++
 [Dec 23] [Endoprocess](publication/yang-2023-endoprocess/) published at NSPW'23<br>
-[Nov 23] Accepted to serve on EuroSys'25 PC
+[Nov 23] Accepted to serve on EuroSys'25 PC<br>
 [Aug 23] [THDA](publication/koshiba-2023-tdcof) published at APSys'23<br>
 [May 24] Serve as USENIX Security'24 Artifact Evaluation co-chair<br>
 [May 24] Serve on USENIX Security'24 PC and Research Ethics Committee<br>
