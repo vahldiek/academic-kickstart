@@ -8,18 +8,22 @@ weight = 7
 
 title='News'
 +++
-
+[Dec 23] [Endoprocess](publication/yang-2023-endoprocess/) published at NSPW'23<br>
+[Nov 23] Accepted to serve on EuroSys'25 PC
+[Aug 23] [THDA](publication/koshiba-2023-tdcof) published at APSys'23<br>
+[May 24] Serve as USENIX Security'24 Artifact Evaluation co-chair<br>
+[May 24] Serve on USENIX Security'24 PC and Research Ethics Committee<br>
 [Mar 23] [HFI](publication/narayan-2023) published at ASPLOS'23 & wins Distinguished Paper Award<br>
 [Jan 23] Guide [NSF Repeto](https://news.ucsc.edu/2022/08/maltzahn-fairos-award.html) & [ACM REP Conference](https://acm-rep.github.io/) as steering committee member<br>
 [Dec 22] [uSwitch](publication/peng-2023) published at IEEE S&P<br>
 [Dec 22] Presented [MeSHwA](publication/vahldiek-2022-words) at DARPA Forward<br>
 [Dec 22] [Segue & ColorGuard](publication/narayan-2022) published at PLAS'22<br>
+<!--
 [Nov 22] Presented [MeSHwA](publication/vahldiek-2022-words/) at WORDS'22<br>
 [Oct 22] [Cerberus](publication/lee-2022/) published at ACM CCS'22<br>
 [Jul 22] Selected in *[DARPA Riser class 2022](https://forward.darpa.mil/risers)*<br>
 [Jul 22] Join [DSE chair at TUM](https://dse.in.tum.de/) as Adjunct Lecturer<br>
 [Jun 22] P-RECS paper on ["Expanding the Scope of Artifact Evaluation at HPC Conferences: Experience of SC21"](publication/malik-2022-aehpc/)<br>
-<!--
 [May 22] Serve as USENIX Security 2023 Artifact Evaluation co-chair with Cristiano Giuffrida<br>
 [Apr 22] Serve on USENIX Security 2023 PC<br>
 [Nov 21] External review for [DTRAP](https://dl.acm.org/journal/dtrap)<br>
