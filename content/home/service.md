@@ -42,8 +42,8 @@ weight = 60
 
 ### Steering Committee
 
-* [ACM Conference on Reproducibility and Replicability](https://acm-rep.github.io/)
-* [NSF Repeto Project](https://news.ucsc.edu/2022/08/maltzahn-fairos-award.html)
+* [ACM Conference on Reproducibility and Replicability (2022 -)](https://acm-rep.github.io/)
+* [NSF Repeto Project (2022 -)](https://news.ucsc.edu/2022/08/maltzahn-fairos-award.html)
 
 ### External Reviewer
 
