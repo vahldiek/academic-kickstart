@@ -60,7 +60,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Anjo Vahldiek-Oberwagner"
-  role = "Research Scientist @ [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), Adjunct Lecturer @ [TU Munich](https://dse.in.tum.de/)"
+  role = "Research Scientist @ <a href='https://www.intel.com/content/www/us/en/research/overview.html' target='_blank'>Intel Labs<a/>), Adjunct Lecturer @ <a href='https://dse.in.tum.de/' target='_blank'>TU Munich</a>"
 
 
   # Organizations/Affiliations.
