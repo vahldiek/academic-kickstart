@@ -20,7 +20,9 @@ weight = 60
 * Usenix Security:
   [2021](https://www.usenix.org/conference/usenixsecurity21#organizers),
   [2022](https://www.usenix.org/conference/usenixsecurity22#organizers),
-  [2023](https://www.usenix.org/conference/usenixsecurity23#organizers)
+  [2023](https://www.usenix.org/conference/usenixsecurity23#organizers),
+  [2024](https://www.usenix.org/conference/usenixsecurity24#organizers) & Research Ethics Committee Member
+* EuroSys: [2025](#)
 * ACM Conference on Reproducibility and Replicability: [2023](https://acm-rep.github.io/2023/)
 * Middleware Doctoral Workshop: [2020](https://2020.middleware-conference.org/program-committee.html)
 * Intel Software Professionals Conference - Security Track: 2020
@@ -29,6 +31,7 @@ weight = 60
 
 ### Artifact Evaluation
 
+* [USENIX Security'24 Artifact Evaluation co-chair](https://www.usenix.org/conference/usenixsecurity24/call-for-artifacts)
 * [USENIX Security'23 Artifact Evaluation co-chair](https://www.usenix.org/conference/usenixsecurity23/call-for-artifacts)
 * [EuroSys'22 Artifact Evaluation co-chair](https://2022.eurosys.org/committees/organization-committee/)
 * [SC'21 Best Reproducibility Advancement Award co-chair](https://sc21.supercomputing.org/program/awards/sc-best-reproducibility-advancement-award/)
