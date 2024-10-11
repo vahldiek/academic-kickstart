@@ -22,7 +22,7 @@ Wasm-compatible subset of SPEC 2006, while our deterministic implementations
 impose overheads between 3.3% and 240.2%. Though high on some benchmarks,
 Swivel’s overhead is still between 9× and 36.3× smaller than existing defenses
 that rely on pipeline fences. """
-selected = false
+selected = true
 publication = "*Proceedings of USENIX Security Symposium*"
 awards = ""
 publication_short = "USENIX Security"

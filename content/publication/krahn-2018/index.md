@@ -22,7 +22,7 @@ Pesos using a range of micro-benchmarks, and real-world
 use cases. Our evaluation shows that Pesos incurs reasonable
 performance overheads for the enforcement of policies while
 keeping the trusted computing base (TCB) small."""
-selected = false
+selected = true
 publication = "*Proceedings of the ACM European Conference on Computer Systems (EuroSys)*"
 publication_short = "ACM EuroSys"
 url_pdf = "https://vahldiek.github.io/papers/Pesos-EuroSys18.pdf"
