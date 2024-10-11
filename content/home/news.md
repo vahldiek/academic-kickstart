@@ -8,7 +8,7 @@ weight = 7
 
 title='News'
 +++
-[Sep 24] [Pegasus]() was accepted at EuroSys'25<br>
+[Sep 24] [Pegasus](publication/peng-2025/) was accepted at EuroSys'25<br>
 [Aug 24] [HFI](publication/narayan-2024/) is selected into IEEE Micro Top Picks 2023<br>
 [Aug 24] [HFI](publication/narayan-2023/) is awarded honorable mention of the Intel Hardware Security Academic Award (IHSAA)<br>
 [Aug 24] [Endokernel](publication/yang-2024-endokernel/) published at USENIX Security'24<br>
