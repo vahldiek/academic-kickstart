@@ -20,7 +20,7 @@ OS, possible hardware implications, and demonstrate their capabilities,
 drawbacks and requirements. The goal is to bring the advantages to all
 application workloads including legacy and memory-unsafe applications, and
 analyze how hardware may improve the efficiency and security."""
-selected = false
+selected = true
 publication = "*Workshop On Resource Disaggregation and Serverless Computing (WORDS)*"
 url_pdf="https://arxiv.org/abs/2211.08056"
 url_slides="https://vahldiek.github.io/files/words22-meshwa.pdf"

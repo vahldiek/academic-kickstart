@@ -20,7 +20,7 @@ concurrent Wasm instances a process can support — reducing context switch
 overheads, load imbalances, and other inefficiencies that detract from the
 performance of high-scale edge computing platforms. """
 
-selected = false
+selected = true
 publication = "*Proceedings of Workshop on Programming Languages and Analysis for Security (PLAS)*"
 publication_short = "PLAS"
 url_pdf="https://plas2022.github.io/files/pdf/SegueColorGuard.pdf"
