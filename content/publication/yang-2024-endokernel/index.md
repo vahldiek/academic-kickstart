@@ -8,7 +8,7 @@ abstract = """Compartmentalization decomposes applications into isolated compone
 The Endokernel is an intra-process security monitor that isolates memory at subprocess granularity. It ensures backwards-compatible and secure emulation of system interfaces, a task uniquely challenging due to the need to analyze OS and hardware semantics beyond mere interface usability. We introduce an inside-out methodology where we identify core OS primitives that allow bypass and map that back to the interfaces that depend on them. This approach led to the identification of several missing policies as well as aided in developing a fine-grained locking approach to deal with complex thread safety when inserting a monitor between the OS and the application. Results indicate that we can achieve fast isolation while greatly enhancing security and maintaining backwards-compatibility, and also showing a new method for systematically finding gaps in policies."""
 selected = false
 publication = "*Proceedings of the USENIX Security Symposium*"
-publication_short = "USENIX Security Symposium (USESEC)"
+publication_short = "USENIX Security"
 url_pdf=""
 awards=''
 projects=["erim"]
