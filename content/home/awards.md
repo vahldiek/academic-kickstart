@@ -15,6 +15,8 @@ weight = 65
 
 +++
 
+* [HFI](publication/narayan-2024/) selected into IEEE Micro Top Picks 2024
+* [HFI](publication/narayan-2023/) wins honorable mention at Intel Hardware Security Academic Award (IHSAA)
 * *Distinguished Paper Award* at <a
   href="https://asplos-conference.org/2023"
   target="_blank">ASPLOS 2023</a> for HFI

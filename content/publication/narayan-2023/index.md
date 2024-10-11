@@ -1,7 +1,7 @@
 +++
 title = "Going beyond the Limits of SFI: Flexible and Secure Hardware-Assisted In-Process Isolation with HFI"
 date = 2023-03-01
-authors = ["Shravan Narayan", "Tal Garfinkel", "Mohammadkazem Taram", "Joey Rudek", "Evan Johnson", "Anjo Vahldiek-Oberwagner", "Michael LeMay", "Ravi Sahita", "Dean Tullsen", "Deian Stefan"]
+authors = ["Shravan Narayan", "Tal Garfinkel", "Mohammadkazem Taram", "Joey Rudek", "Daniel Moghimi", "Evan Johnson", "Anjo Vahldiek-Oberwagner", "Michael LeMay", "Ravi Sahita", "Dean Tullsen", "Deian Stefan"]
 publication_types = ["1"]
 
 abstract = """We introduce Hardware-assisted Fault Isolation (HFI), a simple

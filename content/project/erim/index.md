@@ -1,14 +1,14 @@
 +++
-title = "Secure, Efficient In-Process Memory Isolation"
+title = "Secure In-Process Memory Isolation and Efficient Cloud Deployments"
 date = 2018-12-15T00:24:42+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["memory isolation", "Intel MPK"]
+tags = ["memory isolation", "Intel MPK", "FaaS"]
 
 # Project summary to display on homepage.
-summary = """Providing isolation for sensitive data and state to increase the security and robustness of applications. """
+summary = """Providing in-process isolation for sensitive data and state to increase the security and robustness of applications and its use to provide efficient cloud deployments """
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -60,3 +60,7 @@ by ensuring that potentially malicious code can neither use Spectre attacks to
 break out of the Wasm sandbox nor coerce victim code—another Wasm client or the
 embedding process—to leak secret data. We suggest Swivel, a new compiler
 framework for hardening WebAssembly (Wasm) against Spectre attacks.
+
+Using these findings, we apply in-process memory isolation to legacy cloud
+deployments allowing symbiotic applications to efficiently communicate and
+improve performance.

@@ -8,8 +8,15 @@ weight = 7
 
 title='News'
 +++
+[Sep 24] [Pegasus]() was accepted at EuroSys'25<br>
+[Aug 24] [HFI](publication/narayan-2024/) is selected into IEEE Micro Top Picks 2023<br>
+[Aug 24] [HFI](publication/narayan-2023/) is awarded honorable mention of the Intel Hardware Security Academic Award (IHSAA)<br>
+[Aug 24] [Endokernel](publication/yang-2024-endokernel/) published at USENIX Security'24<br>
+[May 24] Accepted to serve as associate editor of [ACM TOPS](https://dl.acm.org/journal/tops)<br>
 [Dec 23] [Endoprocess](publication/yang-2023-endoprocess/) published at NSPW'23<br>
 [Nov 23] Accepted to serve on EuroSys'25 PC<br>
+
+<!--
 [Aug 23] [THDA](publication/koshiba-2023-tdcof) published at APSys'23<br>
 [May 24] Serve as USENIX Security'24 Artifact Evaluation co-chair<br>
 [May 24] Serve on USENIX Security'24 PC and Research Ethics Committee<br>
@@ -18,7 +25,6 @@ title='News'
 [Dec 22] [uSwitch](publication/peng-2023) published at IEEE S&P<br>
 [Dec 22] Presented [MeSHwA](publication/vahldiek-2022-words) at DARPA Forward<br>
 [Dec 22] [Segue & ColorGuard](publication/narayan-2022) published at PLAS'22<br>
-<!--
 [Nov 22] Presented [MeSHwA](publication/vahldiek-2022-words/) at WORDS'22<br>
 [Oct 22] [Cerberus](publication/lee-2022/) published at ACM CCS'22<br>
 [Jul 22] Selected in *[DARPA Riser class 2022](https://forward.darpa.mil/risers)*<br>

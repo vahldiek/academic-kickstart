@@ -23,7 +23,7 @@ weight = 60
   [2023](https://www.usenix.org/conference/usenixsecurity23#organizers),
   [2024](https://www.usenix.org/conference/usenixsecurity24#organizers) & Research Ethics Committee Member
 * EuroSys: [2025](#)
-* ACM Conference on Reproducibility and Replicability: [2023](https://acm-rep.github.io/2023/)
+* ACM Conference on Reproducibility and Replicability: [2023](https://acm-rep.github.io/2023/) [2024](https://acm-rep.github.io/2024/cfp/)
 * Middleware Doctoral Workshop: [2020](https://2020.middleware-conference.org/program-committee.html)
 * Intel Software Professionals Conference - Security Track: 2020
 * EuroSys ShadowPC: 2020
@@ -42,17 +42,12 @@ weight = 60
 
 ### Steering Committee
 
-* [ACM Conference on Reproducibility and Replicability (2022 -)](https://acm-rep.github.io/)
-* [NSF Repeto Project (2022 -)](https://news.ucsc.edu/2022/08/maltzahn-fairos-award.html)
-
-### External Reviewer
-
-* EuroSys: 2018
-* HotOS: 2017
-* OSDI: 2016
+* [ACM Conference on Reproducibility and Replicability](https://acm-rep.github.io/)
+* [NSF Repeto Project](https://news.ucsc.edu/2022/08/maltzahn-fairos-award.html)
 
 ### Journal
 
+* [ACM TOPS](https://dl.acm.org/journal/tops) Associate Editor [2024 - ]
 * [DTRAP](https://dl.acm.org/journal/dtrap) External Reviewer: 2021
 
 ### Organization
