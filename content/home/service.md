@@ -21,8 +21,9 @@ weight = 60
   [2021](https://www.usenix.org/conference/usenixsecurity21#organizers),
   [2022](https://www.usenix.org/conference/usenixsecurity22#organizers),
   [2023](https://www.usenix.org/conference/usenixsecurity23#organizers),
-  [2024](https://www.usenix.org/conference/usenixsecurity24#organizers) & Research Ethics Committee Member
-* EuroSys: [2025](#)
+  [2024](https://www.usenix.org/conference/usenixsecurity24#organizers) & Research Ethics Committee Member,
+  [2025](https://www.usenix.org/conference/usenixsecurity25#organizers)
+* EuroSys: [2025](https://2025.eurosys.org/pc.html)
 * ACM Conference on Reproducibility and Replicability: [2023](https://acm-rep.github.io/2023/) [2024](https://acm-rep.github.io/2024/cfp/)
 * Middleware Doctoral Workshop: [2020](https://2020.middleware-conference.org/program-committee.html)
 * Intel Software Professionals Conference - Security Track: 2020
