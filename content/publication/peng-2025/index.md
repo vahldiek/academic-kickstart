@@ -3,7 +3,7 @@ title = "Pegasus: Transparent and Unified Kernel-Bypass Networking for Fast Loca
 date = 2024-09-20
 authors = ["Dinglan Peng", "Congyu Liu", "Tapti Palit", "Anjo Vahldiek-Oberwagner", "Mona Vij", "Pedro Fonseca"]
 publication_types = ["1"]
-abstract = "Modern software architectures in cloud computing are highly reliant
+abstract = """Modern software architectures in cloud computing are highly reliant
 on interconnected local and remote services.
 Popular architectures, such as the service mesh,
 rely on the use of independent services or sidecars for
@@ -39,7 +39,7 @@ without application changes.
 Furthermore, Pegasus achieves 222% higher
 throughput than Linux for co-located, IO-intensive applications that
 require both local and remote communication, with each communication
-optimization contributing significantly."
+optimization contributing significantly."""
 selected = false
 publication = "*Proceedings of the ACM European Conference on Computer Systems (EuroSys)*"
 publication_short = "ACM EuroSys"
