@@ -1,5 +1,6 @@
 +++
 title = "Pegasus: Transparent and Unified Kernel-Bypass Networking for Fast Local and Remote Communication"
+publishdate = 2024-09-21
 date = 2025-04-30
 authors = ["Dinglan Peng", "Congyu Liu", "Tapti Palit", "Anjo Vahldiek-Oberwagner", "Mona Vij", "Pedro Fonseca"]
 publication_types = ["1"]
