@@ -8,8 +8,8 @@ abstract = """Hardware-assisted fault isolation (HFI) is a minimal extension to 
 
 selected = false
 awards = ""
-publication = "*IEEE Micro Top Picks 2024 Volume 44 Number 4*"
-publication_short = "IEEE Micro Top Picks 2024"
+publication = "*IEEE Micro Top Picks Volume 44 Number 4*"
+publication_short = "IEEE Micro Top Picks"
 url_pdf="https://shravanrn.com/pubs/microtop-hfi.pdf"
 projects=["erim"]
 +++
