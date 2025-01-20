@@ -15,6 +15,7 @@ weight = 65
 
 +++
 
+* Intel Corporate Research Council Mentor of the Month December 2024 for our successful collaboration with Purdue
 * [HFI](publication/narayan-2024/) selected into IEEE Micro Top Picks 2024
 * [HFI](publication/narayan-2023/) wins honorable mention at Intel Hardware Security Academic Award (IHSAA)
 * *Distinguished Paper Award* at <a
