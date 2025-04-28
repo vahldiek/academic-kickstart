@@ -44,7 +44,8 @@ optimization contributing significantly."""
 selected = false
 publication = "*Proceedings of the ACM European Conference on Computer Systems (EuroSys)*"
 publication_short = "ACM EuroSys"
-url_pdf = ""
+url_pdf = "https://dl.acm.org/doi/pdf/10.1145/3689031.3696083"
+url_code = "https://github.com/rssys/pegasus"
 awards=''
 projects=["erim"]
 +++
