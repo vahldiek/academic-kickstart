@@ -9,7 +9,7 @@ selected = true
 publication = "*Proceedings of the Workshop on System Software for Trusted Execution*"
 awards = ""
 publication_short = "SysTEX"
-url_pdf=""
+url_pdf="https://vahldiek.github.io/files/systex25-ves.pdf"
 projects=["untrustedcloud"]
 +++
 
