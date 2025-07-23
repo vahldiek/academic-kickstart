@@ -10,6 +10,7 @@ publication = "*Proceedings of the Workshop on System Software for Trusted Execu
 awards = ""
 publication_short = "SysTEX"
 url_pdf="https://vahldiek.github.io/files/systex25-ves.pdf"
+url_slides="https://vahldiek.github.io/files/systex25-ves-slides.pdf
 projects=["untrustedcloud"]
 +++
 
