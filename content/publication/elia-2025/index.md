@@ -3,7 +3,7 @@ title = "Lessons Learned from Five Years of Artifact Evaluations at EuroSys"
 publishdate = 2025-07-22
 date = 2025-07-29
 authors = ["Daniele Cono D'Elia", "Thaleia Dimitra Doudali", "Cristiano Giuffrida", "Miguel Matos", "Mathias Payer", "Solal Pirelli", "Georgios Portokalidis", "Valerio Schiavoni", "Salvatore Signorello", "Anjo Vahldiek-Oberwagner"]
-publication_types = ["4"]
+publication_types = ["1"]
 
 abstract = """Artifact Evaluation (“AE”) is now an accepted practice in the
 systems community. However, AE processes are inconsistent across venues and even
