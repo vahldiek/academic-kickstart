@@ -8,5 +8,5 @@ selected = true
 publication = "*arXiv*"
 url_pdf="https://arxiv.org/pdf/2410.05930"
 awards=''
-projects=["untrustedcloud"]
+projects=["untrustedcloud", "secureai"]
 +++

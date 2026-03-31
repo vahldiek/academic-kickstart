@@ -22,8 +22,8 @@ weight = 60
 
 ### Program Committee
 
-* EuroSys: [2025](https://2025.eurosys.org/pc.html), [2026](https://2026.eurosys.org/pc.html), 2027
-* ACM CCS: 2026
+* EuroSys: [2025](https://2025.eurosys.org/pc.html), [2026](https://2026.eurosys.org/pc.html), [2027](https://2027.eurosys.org/pc.html)
+* ACM CCS: [2026](https://www.sigsac.org/ccs/CCS2026/organization/prog-committee.html)
 * Usenix Security:
   [2021](https://www.usenix.org/conference/usenixsecurity21#organizers),
   [2022](https://www.usenix.org/conference/usenixsecurity22#organizers),

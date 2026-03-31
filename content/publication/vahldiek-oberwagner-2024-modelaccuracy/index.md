@@ -8,5 +8,6 @@ selected = true
 publication = "*US Patent App. 18 / 665,188*"
 url_pdf = "https://patents.google.com/patent/US20240305465A1/en"
 awards=''
+projects=["secureai"]
 +++
 

@@ -8,6 +8,7 @@ weight = 7
 
 title='News'
 +++
+[Mar 26] [Rebound](publications/burke-2026/) accepted to S&P'26<br>
 [Dec 25] Accepted to serve on ACM Rep'26 PC<br>
 [Nov 25] Accepted to serve on EuroSys'27 PC<br>
 [Oct 25] Accepted to serve on ACM CCS'26 PC<br>
