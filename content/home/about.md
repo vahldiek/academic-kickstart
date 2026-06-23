@@ -39,5 +39,4 @@ weight = 5
 
 # About
 
-Anjo is a system security researcher with expertise in analyzing, designing, and building secure hardware and software systems, particularly for datacenter workloads. His work at Intel Labs has centered on advancing confidential computing, in-process isolation, and memory-safe architectures—critical areas for protecting sensitive data and enabling secure AI and cloud-native services.  
-
+Anjo is a system security researcher with expertise in analyzing, designing, and building secure hardware and software systems, particularly for datacenter workloads. His work at Intel Labs has centered on advancing confidential computing, in-process isolation, and memory-safe architectures—critical areas for protecting sensitive data and enabling secure AI and cloud-native services. Recently, his role changed to focus on the security of novel network stacks for AI. He support artifact evaluation and reproducibility efforts in the security and systems community.
