@@ -23,8 +23,9 @@ weight = 60
 ### Program Committee
 
 * EuroSys: [2025](https://2025.eurosys.org/pc.html), [2026](https://2026.eurosys.org/pc.html), [2027](https://2027.eurosys.org/pc.html)
-* uASC: [2027](https://uasc.cc/committee.html)
+
 * ACM CCS: [2026](https://www.sigsac.org/ccs/CCS2026/organization/prog-committee.html)
+
 * Usenix Security:
   [2021](https://www.usenix.org/conference/usenixsecurity21#organizers),
   [2022](https://www.usenix.org/conference/usenixsecurity22#organizers),
@@ -32,6 +33,7 @@ weight = 60
   [2024](https://www.usenix.org/conference/usenixsecurity24#organizers) & Research Ethics Committee Member,
   [2025](https://www.usenix.org/conference/usenixsecurity25#organizers)
 * ACM Conference on Reproducibility and Replicability: [2023](https://acm-rep.github.io/2023/), [2024](https://acm-rep.github.io/2024/cfp/), [2025](https://acm-rep.github.io/2025/cfp/), [2026](https://acm-rep.github.io/2026/cfp/)
+* uASC: [2027](https://uasc.cc/committee.html)
 * Workshop on System Software for Trusted Execution (SysTEX): [2026](https://systex-workshop.github.io/2026/committee.html)
 * Workshop on Metascience and Critical Reflections in Security & Privacy: [2026](https://metacrisp.org/)
 * Workshop on Kernel Isolation, Safety and Verification (KISV): [2025](https://kisv-workshop.github.io/)
