@@ -25,6 +25,8 @@ metric that captures both artifact creation and AE committee service,
 visualizing reproducibility labor; and (3)~the first cross-venue artifact search
 engine, closing the creation--evaluation--reuse loop by enabling discovery by
 topic, author, institution, or venue.
+
+Accessible at: [http://reprodb.github.io](http://reprodb.github.io)
 """
 selected = true
 publication = "*Proceedings of the ACM Conference on Reproducibility and Replicability*"
