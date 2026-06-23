@@ -28,7 +28,7 @@ topic, author, institution, or venue.
 
 Accessible at: [http://reprodb.github.io](http://reprodb.github.io)
 """
-selected = true
+selected = false
 publication = "*Proceedings of the ACM Conference on Reproducibility and Replicability*"
 awards = ""
 publication_short = "ACM REP"
