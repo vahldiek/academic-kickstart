@@ -1,7 +1,7 @@
 +++
 title = "ReproDB: An Open Platform for Discovering Research Artifacts and Analyzing their Evaluation in Security and Systems"
-publishdate = 2025-07-20
-date = 2025-06-21
+publishdate = 2025-06-21
+date = 2025-07-20
 authors = ["Anjo Vahldiek-Oberwagner", "Marton Bognar", "Salvatore Signorello"]
 publication_types = ["1"]
 abstract = """

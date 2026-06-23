@@ -22,7 +22,7 @@ weight = 5
 
 [[education.employment]]
   title = "Research Scientist"
-  organization = "Intel Labs"
+  organization = "Intel Labs, now Intel CTO Office"
   year = "April, 2019"
 
 [[education.courses]]
