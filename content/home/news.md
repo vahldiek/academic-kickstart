@@ -8,7 +8,7 @@ weight = 7
 
 title='News'
 +++
-[Jun 27] [ReproDB]() accepted at ACM Rep'26<br>
+[Jun 27] [ReproDB](publication/vahldiek-2026/) accepted at ACM Rep'26<br>
 [Mar 26] [Rebound](publication/burke-2026/) accepted to S&P'26<br>
 [Feb 26] Accepted to serve on uASC'27 PC<br>
 [Dec 25] Accepted to serve on ACM Rep'26 PC<br>
