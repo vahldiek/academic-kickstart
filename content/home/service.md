@@ -23,9 +23,7 @@ weight = 60
 ### Program Committee
 
 * EuroSys: [2025](https://2025.eurosys.org/pc.html), [2026](https://2026.eurosys.org/pc.html), [2027](https://2027.eurosys.org/pc.html)
-
 * ACM CCS: [2026](https://www.sigsac.org/ccs/CCS2026/organization/prog-committee.html)
-
 * Usenix Security:
   [2021](https://www.usenix.org/conference/usenixsecurity21#organizers),
   [2022](https://www.usenix.org/conference/usenixsecurity22#organizers),
@@ -62,6 +60,12 @@ weight = 60
 
 * [ACM TOPS](https://dl.acm.org/journal/tops) Associate Editor [2024 - ]
 * [DTRAP](https://dl.acm.org/journal/dtrap) External Reviewer: 2021
+
+### Open-Source Maintaining
+
+* [ReproDB](https://github.com/ReproDB)
+* [SecArtifcats](https://github.com/secartifacts/secartifacts.github.io)
+* [SysArtifacts](https://github.com/sysartifacts/sysartifacts.github.io)
 
 ### Organization
 * [Registration for EuroSys'21](https://2021.eurosys.org/organization-committee.html#organization-committee)
