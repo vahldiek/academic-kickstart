@@ -17,10 +17,10 @@ title='News'
 [Feb 26] Accepted to serve on uASC'27 PC<br>
 [Dec 25] Accepted to serve on ACM Rep'26 PC<br>
 [Nov 25] Accepted to serve on EuroSys'27 PC<br>
+<!--
 [Oct 25] Accepted to serve on ACM CCS'26 PC<br>
 [Sep 25] [Recursive Attesation](publication/jing-2025/) accepted at ApSys'25<br>
 [Jul 25] [Lessons learned from 5 years of Artifact Evaluations at EuroSys](publication/elia-2025/) presented at ACM REP'25<br>
-<!--
 [Apr 25] [Validation and Endorsement Services](publication/vahldiek-2025/) accepted at SysTEX'25<br>
 [Mar 25] Accepted to serve on [EuroSys'26](https://2026.eurosys.org/) PC<br>
 [Feb 25] [Cloud-Scale Distributed Capabilities](publication/white-2025/) accepted at HCDS'25<br>
