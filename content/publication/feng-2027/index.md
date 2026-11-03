@@ -1,7 +1,7 @@
 +++
 title = "SDP: Sensitive Data Protection"
-publishdate = "2026-11-03"
-date = "2027-5-17"
+publishdate = "2027-5-17"
+date = "2026-11-03"
 authors = ["Zhiyao Feng", "Anjo Vahldiek-Oberwagner", "Hans Liljestrand", "Atri Bhattacharyya", "Thomas Bourgeat", "Mathias Payer"]
 publication_types = ["1"]
 abstract = """System software implemented in low-level languages like C remains prone to memory safety vulnerabilities. These vulnerabilities may be exploited by attackers to corrupt data and compromise the system. Among all data in program memory, a small fraction is highly security-sensitive, e.g., critical system or process attributes that attackers must corrupt to achieve malicious goals, and therefore becomes the ultimate attack target. Attackers corrupt such data through data-only attacks or control-flow hijacking. Existing solutions defend against all attack paths by stacking multiple mitigations for different program assets to protect, leading to increased complexity, compounded overhead, and inherited security weaknesses of each mitigation.
