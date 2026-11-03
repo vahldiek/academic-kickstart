@@ -33,7 +33,7 @@ publication = "*Proceedings of the ACM Conference on Reproducibility and Replica
 awards = ""
 publication_short = "ACM REP"
 url_pdf="https://vahldiek.github.io/files/acmrep26-reprodb.pdf"
-url_slides="https://vahldiek.github.io/files/acmrep26-reprodb.pdf"
+url_slides="https://vahldiek.github.io/slides/acmrep26-reprodb.pdf"
 code="https://github.com/ReproDB"
 projects=["artifact-eval"]
 +++
