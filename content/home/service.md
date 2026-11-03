@@ -17,13 +17,15 @@ weight = 60
 
 ### Program Committee/Associate (Co-)Chair
 
-* [SysTEX 2025](https://systex-workshop.github.io/2025/index.html) co-PC chair
-* [EuroS&P 2026](https://eurosp2026.ieee-security.org/index.html) Area Chair in System Security
+* [ACM Rep 2027](https://acm-rep.github.io/2027/) co-PC chair
+* [SysTEX 2025](https://systex-workshop.github.io/2025/) co-PC chair
+* [EuroS&P 2026](https://eurosp2026.ieee-security.org/) Area Chair in System Security
 
 ### Program Committee
 
 * EuroSys: [2025](https://2025.eurosys.org/pc.html), [2026](https://2026.eurosys.org/pc.html), [2027](https://2027.eurosys.org/pc.html)
-* ACM CCS: [2026](https://www.sigsac.org/ccs/CCS2026/organization/prog-committee.html)
+* ACM CCS: [2026](https://www.sigsac.org/ccs/CCS2026/organization/prog-committee.html), [2027](https://www.sigsac.org/ccs/CCS2027/)
+* EuroS&P: [2027](https://www.eurosp2027.ieee-security.org/)
 * Usenix Security:
   [2021](https://www.usenix.org/conference/usenixsecurity21#organizers),
   [2022](https://www.usenix.org/conference/usenixsecurity22#organizers),
