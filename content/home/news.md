@@ -13,6 +13,7 @@ title='News'
 [Oct 26] [Secure ATS](publication/sridhara-2026/) accepted at ACSAC'26<br>
 [Oct 26] Accepted to serve on ACM CCS'27 PC<br>
 [Oct 26] Accepted to serve on EuroS&P'27 PC<br>
+[Oct 26] [Segue & Colorguard](publication/narayan-2025/) wins honorable mention at Intel Hardware Security Academic Award (IHSAA)
 [Jun 26] Released [reprodb.github.io](https://reprodb.github.io)<br>
 [Jun 26] [ReproDB](publication/vahldiek-2026/) accepted at ACM Rep'26<br>
 [Mar 26] [Rebound](publication/burke-2026/) accepted to S&P'26<br>
