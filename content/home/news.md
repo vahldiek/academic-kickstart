@@ -9,6 +9,8 @@ weight = 7
 title='News'
 +++
 [Nov 26] Accepted to serve as ACM Rep'27 PC co-chair<br>
+[Oct 26] [SDP](publication/feng-2027/) accepted at S&P'27<br>
+[Oct 26] [Secure ATS](publication/sridhara-2026/) accepted at ACSAC'26<br>
 [Oct 26] Accepted to serve on ACM CCS'27 PC<br>
 [Oct 26] Accepted to serve on EuroS&P'27 PC<br>
 [Jun 26] Released [reprodb.github.io](https://reprodb.github.io)<br>

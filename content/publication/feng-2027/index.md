@@ -10,6 +10,7 @@ selected = false
 publication = "*Proceedings of the IEEE Symposium on Security and Privacy (S&P)*"
 publication_short = "IEEE S&P"
 url_pdf = "https://hexhive.epfl.ch/publications/files/27Oakland.pdf"
-awards=''
-projects=["erim"]
+code = "https://github.com/HexHive/SDP"
+awards = ''
+projects = ["erim"]
 +++
